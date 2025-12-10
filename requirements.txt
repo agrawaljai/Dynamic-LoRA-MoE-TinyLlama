@@ -1,0 +1,12 @@
+# requirements.txt
+# These are modern, compatible versions that fix the bugs.
+transformers==4.40.1
+peft==0.10.0
+trl==0.8.6
+accelerate==0.29.3
+datasets==2.15.0
+sentence-transformers==2.7.0
+gradio==4.31.5
+pandas
+tqdm
+scikit-learn

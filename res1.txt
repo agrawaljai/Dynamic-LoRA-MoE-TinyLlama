@@ -1,0 +1,9 @@
+--- ROUTER PERFORMANCE ---
+Router Accuracy: 90.00%
+
+==============================
+
+--- TASK PERFORMANCE (Higher is better, except PPL) ---
+          Model  Code ROUGE-L  Code BLEU  Poetry ROUGE-L  Poetry BLEU  Poetry PPL (Lower is better)
+LoRA MoE System         36.07      13.58           88.61        65.60                        354.97
+  Baseline LoRA         42.05      18.51           84.04        45.94                        795.01
